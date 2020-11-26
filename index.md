@@ -32,7 +32,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>qiuhao
+      <h1>qiuhao</h1>
       <p><b>本科就读</b></p>
       <p><b>××大学××学院</b></p>
       <p><b>邮箱：1234567789@qq.com</b></p>
