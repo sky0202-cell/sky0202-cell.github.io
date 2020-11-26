@@ -44,6 +44,3 @@ Project Description
     </td>
   </tr>
 </table>
-
-
-Translated with www.DeepL.com/Translator (free version)
