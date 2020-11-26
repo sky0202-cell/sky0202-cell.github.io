@@ -1,48 +1,49 @@
-# 个人信息
-233
-#### 姓名：QH
-#### 学历：本科在读
-#### 学校：
-#### 邮箱：
-#### 地址：
+### Personal Information
+#### Name: QH
+#### Education: Bachelor's degree in progress
+#### School.
+#### Email.
+#### Address.
 
-## 最新消息
-1.消息1..
+## Latest News
+1. Message 1...
 
-## 研究方向
--文本挖掘
--知识图谱
+## Research Direction
+-Text Mining
+-Knowledge Graphs
 
-## 荣誉奖励
--奖学金
--荣誉称号
--比赛获奖
+## Honorable Mentions
+-Scholarships
+-Honors
+-Contest Awards
 
-### 项目研究
-#### 公司/学校/研究所（）
--  **项目1**
-项目描述
-- **项目2**
-项目描述
-#### 公司/学校/研究所（）
--  **项目1**
-项目描述
-- **项目2**
-项目描述
+### Project Research
+#### Company/School/Institute(s)
+- **Project 1**
+Project Description
+- **Project 2**
+Project Description
+#### Company/School/Institute(s)
+- **Project 1**
+Project Description
+- **Project 2**
+Project Description
 
 <table border="0">
   <tr>
     <td width="75%">
       <h1>qiuhao
-      <p><b>本科就读</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <p><b>Undergraduate studies</b></p>
+      <p><b>Xx University x xx College</b></p>
+      <p><b>Email: 1234567789@qq.com</b></p>
+      <p><b>Address: ×× University, ×× Building, ×× University, ×× Road, ×× District, ×× City, P.O.Box</b></p>.
+        <a href="index.html">Chinese</a>
     </td>
     <td width="25%">
-      <img src="574e9258d109b3de00752f42c0bf6c81810a4cd6.jpg" width="100%">     QH
+      <img src="574e9258d109b3de00752f42c0bf6c81810a4cd6.jpg" width="100%"> QH
     </td>
   </tr>
 </table>
-[链接描述](url)
-[英文版](index-en.md)
+
+
+Translated with www.DeepL.com/Translator (free version)
