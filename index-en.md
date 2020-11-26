@@ -32,7 +32,7 @@ Project Description
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>qiuhao
+      <h1>qiuhao</h1>
       <p><b>Undergraduate studies</b></p>
       <p><b>Xx University x xx College</b></p>
       <p><b>Email: 1234567789@qq.com</b></p>
