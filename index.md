@@ -42,4 +42,5 @@
       <img src="574e9258d109b3de00752f42c0bf6c81810a4cd6.jpg" width="100%">     QH
     </td>
   </tr>
+  <a href="index-en.html">英文版</a>
 </table>
