@@ -37,10 +37,10 @@
       <p><b>××大学××学院</b></p>
       <p><b>邮箱：1234567789@qq.com</b></p>
       <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+          <a href="index-en.html">英文版</a>
     </td>
     <td width="25%">
       <img src="574e9258d109b3de00752f42c0bf6c81810a4cd6.jpg" width="100%">     QH
     </td>
   </tr>
-  <a href="index-en.html">英文版</a>
 </table>
