@@ -39,7 +39,7 @@
       <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
     </td>
     <td width="25%">
-      <img src="/574e9258d109b3de00752f42c0bf6c81810a4cd6.jpg" width="100%">     QH
+      <img src="574e9258d109b3de00752f42c0bf6c81810a4cd6.jpg" width="100%">     QH
     </td>
   </tr>
 </table>
